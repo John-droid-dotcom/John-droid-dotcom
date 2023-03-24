@@ -7,13 +7,13 @@
 Developer, Designer & Student
 
 *   🌍  I'm based in Addis Ababa, Ethiopia
-*   ✉️  You can contact me at [briukmesfin246@gmail.com](mailto:briukmesfin246@gmail.com)
-*   🚀  I'm currently working on [BKMNPodcast](http://uplifted-evolution-720474.framer.app)
+*   ✉️  You can contact me at [johannesteshome21@gmail.com](mailto:johannesteshome21@gmail.com)
+*   🚀  I'm currently working on ARL
 *   🧠  I'm learning & excelling on Full Stack Development
 *   🤝  I'm open to collaborating on Interesting Projects
 *   ⚡  I just need little boost, 💫 Maybe Coffee
 
-<a href="https://www.twitter.com/Bi2kmes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Bi2kmes?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"/></a>
+<!-- <a href="https://www.twitter.com/Bi2kmes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Bi2kmes?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"/></a>
 <a href="https://www.github.com/cypghost" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/cypghost?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
 <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/jinxoxoxo?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=000000&label=TWITCH+STATUS" /></a>
 
@@ -104,7 +104,7 @@ alt="GitHub Commits Graph" /></a>
 
 <img src="https://gpvc.arturio.dev/cypghost" alt="Profile views"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
 
 
 
